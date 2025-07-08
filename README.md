@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**TheWritter-cell/TheWritter-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm TheWritter-cell!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 🚀
+
+---
+
+## 💻 About Me
+
+I'm passionate about IT, programming, and new technologies.  
+I enjoy learning, creating, and sharing projects, while also exploring politics and economics.
+
+---
+
+## 🛠️ Technical Skills
+
+- 🐍 **Python** — scripting, automation, development  
+- 💙 **C / C++** — system programming, memory management, algorithms  
+- 📜 **COBOL** — basics and exploration, financial applications  
+- 🔒 Cybersecurity & server management (currently learning)  
+
+---
+
+## 🌱 Currently Learning
+
+- Cybersecurity applied to finance  
+- Backend development with Python  
+
+
+---
+
+## 📫 Get in Touch
+
+Feel free to send me a message or open an issue if you want to chat!  
+notice me on a issue on my special repo with my name
+---
+
+Thanks for stopping by, enjoy your visit! 👊  
+
