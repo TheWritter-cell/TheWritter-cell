@@ -25,7 +25,12 @@ I enjoy learning, creating, and sharing projects, while also exploring politics 
 ## 🌱 Currently Learning
 
 - Cybersecurity applied to finance  
-- Backend development with Python  
+- Backend development with Python
+
+### 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWritter-cell&layout=compact&langs_count=8&theme=tokyonight)
+
 
 
 ---
